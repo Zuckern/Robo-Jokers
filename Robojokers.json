@@ -1,0 +1,12 @@
+{
+	"id": "robojokers",
+	"name": "RoboJokers",
+	"author": ["Zuckern"],
+	"description": "A Cryptid Inspired Joker Pack that introduces several new Antagonistic Robot Themed Jokers",
+	"prefix": "RoboJokers",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "3CE322",
+	"badge_text_colour": "EBEBFC",
+	"version": "1.0.0"
+}
