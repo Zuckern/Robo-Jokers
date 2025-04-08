@@ -2,5 +2,5 @@ I've literally never done anything like this before, and I can still barely navi
 
 FEATURES:
 
-1 Joker (Plans to add 2 more)
+3 Jokers
 ... That's it
